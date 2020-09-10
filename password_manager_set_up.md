@@ -44,3 +44,9 @@ Create a random password of length 15
 ```
 $ pass generate web.de/pw 15
 ```
+
+List the password-store folder and file structure
+
+```
+$ pass ls
+```
