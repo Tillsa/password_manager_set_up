@@ -50,3 +50,13 @@ List the password-store folder and file structure
 ```
 $ pass ls
 ```
+
+Show a password
+```
+$ pass show gmail/user
+```
+Copy a password to clipboard
+
+```
+pass show -c gmail/user
+```
